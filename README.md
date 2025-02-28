@@ -67,7 +67,7 @@ I believe great engineering balances technical rigor with societal impact!
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:smohanku@gmu.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/smohanku/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/San68bot)
-[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost)](https://devpost.com/San68bot)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-003E54?style=for-the-badge&logo=portfolio)](https://san68bot.github.io)
 
 *Whether it's making robots dance or teaching AI to see – if it computes, moves, or helps others, count me in!* 🚀✨
 

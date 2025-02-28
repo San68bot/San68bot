@@ -22,7 +22,7 @@ I believe great engineering balances technical rigor with societal impact!
 | Project | Description |
 |---------|-------------|
 | **[AlphaLib](https://github.com/San68bot/AlphaLib)** |  All in one unified control framework for FTC robots |
-| **[AGStateMachineBuilder]([https://github.com/San68bot/AGStateMachineBuilder)** |  Asynchronous State Machines for Modern Systems |
+| **[AGStateMachineBuilder](https://github.com/San68bot/AGStateMachineBuilder)** |  Asynchronous State Machines for Modern Systems |
 | **[Spline-Modeling-Toolkit](https://github.com/San68bot/LearningSplines)** |  Toolkit to model and create splines in real time |
 
 ---

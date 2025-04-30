@@ -17,6 +17,7 @@ I believe great engineering balances technical rigor with societal impact!
 | **[NaviguideAI](https://github.com/San68bot/EnvironmentalSafetyNavigation)** |  Enabeling sight for those with visual disabilities! |
 | **[Constraint-Satisfaction-Engine](https://github.com/San68bot/Constraint-Satisfaction-Engine)** |  Dynamic Constraint Satisfaction Solver |
 | **[RT-UAV-Wayfinding](https://github.com/San68bot/RT-Drone-Wayfinding)** |  Real Time UAV Wayfinder adapted to Hospital organ delivery |
+| **[beyond-the-prompt ](https://github.com/San68bot/beyond-the-prompt)** |  A Quantitative Study of ChatGPT vs. DeepSeek |
 
 ### 🤖 **Robotics & Autonomous Systems**
 | Project | Description |

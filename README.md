@@ -28,41 +28,6 @@ I believe great engineering balances technical rigor with societal impact!
 
 ---
 
-## 🔧 **Technologies & Skills**
-
-**Programming**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-
-**AI/ML Stack**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E1?logo=mlflow)
-![ONNX](https://img.shields.io/badge/-ONNX-005CED?logo=onnx)
-
-**Data & MLOps**  
-![AzureML](https://img.shields.io/badge/-Azure_ML-0089D6?logo=microsoft-azure)
-![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark)
-![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?logo=kubeflow)
-![FAISS](https://img.shields.io/badge/-FAISS-00C4CC)
-
-**Vision & NLP**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF)
-
-**Robotics Core**  
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros)
-![Motion Planning](https://img.shields.io/badge/Motion--Planning-008CBA)
-![SLAM](https://img.shields.io/badge/-SLAM-FF6F00?logo=gazebo)
-![Perception](https://img.shields.io/badge/-Perception-FF6F00?logo=gazebo)
-
----
-
 ## 🌐 Let's Connect!
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail)](mailto:smohanku@gmu.edu)
